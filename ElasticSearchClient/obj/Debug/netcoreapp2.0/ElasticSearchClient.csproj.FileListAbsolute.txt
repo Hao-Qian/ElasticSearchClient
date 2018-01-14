@@ -1,0 +1,11 @@
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\bin\Debug\netcoreapp2.0\ElasticSearchClient.deps.json
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\bin\Debug\netcoreapp2.0\ElasticSearchClient.runtimeconfig.json
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\bin\Debug\netcoreapp2.0\ElasticSearchClient.runtimeconfig.dev.json
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\bin\Debug\netcoreapp2.0\ElasticSearchClient.dll
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\obj\Debug\netcoreapp2.0\ElasticSearchClient.csprojResolveAssemblyReference.cache
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\obj\Debug\netcoreapp2.0\ElasticSearchClient.csproj.CoreCompileInputs.cache
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\obj\Debug\netcoreapp2.0\ElasticSearchClient.AssemblyInfoInputs.cache
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\obj\Debug\netcoreapp2.0\ElasticSearchClient.AssemblyInfo.cs
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\bin\Debug\netcoreapp2.0\ElasticSearchClient.pdb
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\obj\Debug\netcoreapp2.0\ElasticSearchClient.dll
+C:\Users\Hao\Documents\Visual Studio 2017\Projects\ElasticSearchClient\ElasticSearchClient\obj\Debug\netcoreapp2.0\ElasticSearchClient.pdb
